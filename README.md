@@ -13,4 +13,6 @@ http://ozantweetload.ca-central-1.elasticbeanstalk.com/loadTweets?userName=ozanf
 
 http://ozantweetload.ca-central-1.elasticbeanstalk.com/getMostFavoriteTweet?userName=ozandurukan123
 
+http://ozantweetload.ca-central-1.elasticbeanstalk.com/actuator/health
+
 
